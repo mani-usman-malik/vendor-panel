@@ -1,0 +1,12 @@
+{
+  "jobs":[  
+    { "title": "WebDeveloper", "id": 1, "details": "lorem" },
+    { "title": "Web Designer", "id": 2, "details": "lorem" },
+    { "title": "GraphicDesigner", "id": 3, "details": "lorem" }
+
+
+
+  ]
+
+
+}

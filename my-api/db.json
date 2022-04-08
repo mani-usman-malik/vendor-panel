@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Details": [
+    {
+      "name": "usman",
+      "email": "usmanf996@gmail.com",
+      "address": "abbottabad"
+    },
+    {
+      "id": 2,
+      "name": "Ali",
+      "email": "Ali33@gmail.com",
+      "address": "abbottabad"
+    },
+    {
+      "name": "Abdullah",
+      "email": "Abdullah33@gmail.com",
+      "address": "abbottabad",
+      "id": 2
+    },
+    {
+      "name": "Abdullah",
+      "email": "Abdullah33@gmail.com",
+      "address": "abbottabad",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
