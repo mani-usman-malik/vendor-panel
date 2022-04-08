@@ -2,7 +2,7 @@
   <div id="app">
     <div class="leftside">
       <h3>
-        Million Dollar
+        Million Doar
       </h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero quasi aut voluptatibus error, deserunt repellendus asperiores voluptas temporibus quos? </p>
       
